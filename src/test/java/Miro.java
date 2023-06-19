@@ -30,7 +30,7 @@ import org.openqa.selenium.WebDriver;
 
 
 
-public class BigAssignment {
+public class Miro {
 
 	private WebDriver driver;
     private String[] pageUrls = {
